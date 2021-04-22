@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Resep</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_recipe">RecipeActivity</string>
+    <string name="login">Login</string>
+    <string name="logindesc">to Your Account</string>
+    <string name="hint_email">Your Email</string>
+    <string name="hint_pass">Password</string>
+    <string name="register">Register</string>
+    <string name="back">Back</string>
+    <string name="register_desc">Please fill all forms below and password must be eight characters or more</string>
+    <string name="hint_name">Enter Your name</string>
+    <string name="hint_title">Recipe Title</string>
+    <string name="hint_content">Recipe Content</string>
+    <string name="placeholder">Example Title</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_delete">Delete</string>
+</resources>
